@@ -1,0 +1,61 @@
+/* start mostatil1 */
+.mostatil {
+  margin: 0 auto;
+  width: 600px;
+  height: 300px;
+  background-color: aqua;
+}
+/* end mostatil 1 */
+/* start dayere 1 */
+.dayere1 {
+  margin: 0 auto;
+  width: 600px;
+  text-align: center;
+}
+.dayere1 > .shekl1,
+.shekl2,
+.shekl3,
+.shekl4,
+.shekl5 {
+  background-color: rgb(58, 41, 41);
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  display: inline-block;
+  margin-right: 50px;
+  text-align: center;
+}
+/* end dayere 1 */
+/* start box dayere moraba */
+.box-dayere-moraba {
+  width: 600px;
+  margin: 0 auto;
+}
+/* end box dayere moraba */
+/* start dayere 2 */
+.dayere2 {
+  background-color: brown;
+  width: 240px;
+  height: 240px;
+  border-radius: 200px;
+  margin: 0 auto;
+  display: inline-block;
+}
+/* end dayere 2  */
+/* start moraba */
+.moraba {
+  display: inline-block;
+  width: 100px;
+  margin: 0 auto;
+  text-align: center;
+  margin-left: 200px;
+}
+.moraba > .shekl6,
+.shekl7,
+.shekl8 {
+  background-color: blue;
+  width: 80px;
+  height: 80px;
+  margin-bottom: 5px;
+}
+/* end moraba */
